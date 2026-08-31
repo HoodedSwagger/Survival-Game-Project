@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b7cac04e0ba114f82fd40a9f44f96c, type: 3}
+  m_Name: Light_Pedestal
+  m_EditorClassIdentifier: Assembly-CSharp::PlaceableItem
+  id: Light_Pedestal
+  icon: {fileID: 21300000, guid: bdb2f7fd29e4c0746b374e5384fd9aba, type: 3}
+  itemName: Light_Pedestal
+  description: Illuminates the area
+  prefab: {fileID: 4072410842860505709, guid: df8470e8c5aec9748873f18cb5d46c47, type: 3}
+  inHandPrefab: {fileID: 7254061529521903987, guid: 9d87998ce8174dc4f9ab52376f94bebd, type: 3}
+  isStackable: 1
+  maxStackSize: 64
+  objectToPlace: {fileID: 6024577589970496080, guid: f8097a3dfa890ed4b9692caec08bd16a, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794a58ab4d92ccf4386c816c9f05996c, type: 3}
+  m_Name: Iron Axe
+  m_EditorClassIdentifier: Assembly-CSharp::ToolItem
+  id: Iron_Axe
+  icon: {fileID: 21300000, guid: 3aa9c1e3675d6d24ba7074f9a2cd16f7, type: 3}
+  itemName: Iron Axe
+  description: A reliable axe
+  prefab: {fileID: 5934808999865437645, guid: 4305fd5720271024eb2dc1f94f50fece, type: 3}
+  inHandPrefab: {fileID: 296467439283794794, guid: e8b9360a2f1b27f4785d942605ef1639, type: 3}
+  isStackable: 1
+  maxStackSize: 1
+  useAnimName: Swing
+  toolDamage: 20
+  harvestLayer:
+    serializedVersion: 2
+    m_Bits: 2560
+  hitEffect: {fileID: 7848762784072963380, guid: c8c2a9e424ff98a4585ba00cfd59931d, type: 3}
+  hitSounds: {fileID: 11400000, guid: 7606437181ddcdc4ba20a6092e4675f9, type: 2}
+  missSounds: {fileID: 11400000, guid: 60d3c20a8ce911e4783d37181a22d513, type: 2}

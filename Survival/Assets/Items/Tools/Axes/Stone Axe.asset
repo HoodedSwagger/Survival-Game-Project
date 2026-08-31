@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794a58ab4d92ccf4386c816c9f05996c, type: 3}
+  m_Name: Stone Axe
+  m_EditorClassIdentifier: Assembly-CSharp::ToolItem
+  id: Stone_Axe
+  icon: {fileID: 21300000, guid: 5ad48015f836e454086b30664c4900ab, type: 3}
+  itemName: Stone Axe
+  description: Primitive axe
+  prefab: {fileID: 1537994011629514849, guid: 8ede545645e1c9343823115717357420, type: 3}
+  inHandPrefab: {fileID: 4779462412055446879, guid: 692e020a6400bb346b081ee3d5d31981, type: 3}
+  isStackable: 1
+  maxStackSize: 1
+  useAnimName: Swing
+  toolDamage: 5
+  harvestLayer:
+    serializedVersion: 2
+    m_Bits: 2560
+  hitEffect: {fileID: 7848762784072963380, guid: c8c2a9e424ff98a4585ba00cfd59931d, type: 3}
+  hitSounds: {fileID: 11400000, guid: 7606437181ddcdc4ba20a6092e4675f9, type: 2}
+  missSounds: {fileID: 11400000, guid: 60d3c20a8ce911e4783d37181a22d513, type: 2}

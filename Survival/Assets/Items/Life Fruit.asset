@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b30f435d97dde4c9621a72fbf6217c, type: 3}
+  m_Name: Life Fruit
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  id: Life_Fruit
+  icon: {fileID: 21300000, guid: 0bd48b976e257d341a7a582c6cb52765, type: 3}
+  itemName: Life Fruit
+  description: Magic fruit of life
+  prefab: {fileID: 8026270583318880834, guid: 8bf7080fa0c87a146ae6b152d2c4a216, type: 3}
+  inHandPrefab: {fileID: 8321444156049371774, guid: c4e92363be8134a488f7b19dfc3dfe58, type: 3}
+  isStackable: 1
+  maxStackSize: 64

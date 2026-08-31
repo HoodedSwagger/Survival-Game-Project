@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b7cac04e0ba114f82fd40a9f44f96c, type: 3}
+  m_Name: Blast Furnace
+  m_EditorClassIdentifier: Assembly-CSharp::PlaceableItem
+  id: Blast_Furnace
+  icon: {fileID: 21300000, guid: 8403e98eaeb903149aa6ba97537312c9, type: 3}
+  itemName: Blast Furnace
+  description: Melts copper and tin into bronze, iron and coal into steel.
+  prefab: {fileID: 4072721028122846248, guid: 79f60d920bb1b4240a0150529a8ce535, type: 3}
+  inHandPrefab: {fileID: 2854164289995216712, guid: 953d89f5d2caf924088a6b71c340d529, type: 3}
+  isStackable: 0
+  maxStackSize: 1
+  objectToPlace: {fileID: 4845571541447112628, guid: dd1041465780fbc4fafb1ca89c927de6, type: 3}

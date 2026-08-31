@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ae52db0b455f8499460e1bb18d067d, type: 3}
+  m_Name: BronzeAmuletRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::CraftRecipe
+  components:
+  - _item: {fileID: 11400000, guid: 5ea3323b41135db4b8ffc1757006a6a9, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 54c45599a34667a4f99f70d574eed9ad, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 44ec5604943c4414ca9d0797a54619a5, type: 2}
+    _amount: 1
+  itemToCraft: {fileID: 11400000, guid: 4ee09d07f1a3e5442b7f648124dc8acd, type: 2}
+  craftAmount: 1

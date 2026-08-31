@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b30f435d97dde4c9621a72fbf6217c, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  id: Torch
+  icon: {fileID: 21300000, guid: c9b27d229e655324cbd97f19e1582582, type: 3}
+  itemName: torch
+  description: portable light source
+  prefab: {fileID: 3165244406590053520, guid: c76a8528fe171c4499dd0fa57781088b, type: 3}
+  inHandPrefab: {fileID: 1470756951265644866, guid: 60be1034a4f6d714e91f95b092ddea26, type: 3}
+  isStackable: 1
+  maxStackSize: 64

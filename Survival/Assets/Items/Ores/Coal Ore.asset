@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f07960de576a1114da21de1f0dc738bc, type: 3}
+  m_Name: Coal Ore
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceItem
+  id: Coal_Ore
+  icon: {fileID: 21300000, guid: 60ba464f504e4c94a8ed9e1e602ee3f7, type: 3}
+  itemName: Coal Ore
+  prefab: {fileID: 7712406554352192868, guid: ac36b5ed2f04bbf4f91f9032aec848a8, type: 3}
+  inHandPrefab: {fileID: 6795538963517462563, guid: 6117560e602eb83489a27385cfcf46f9, type: 3}
+  isStacable: 1
+  maxStackSize: 64
+  processedResource: {fileID: 485200612604217011, guid: b481d1e017609fb439d6cfeb8b8e2496, type: 3}

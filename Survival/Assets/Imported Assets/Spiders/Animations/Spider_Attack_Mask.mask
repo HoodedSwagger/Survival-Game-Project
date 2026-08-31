@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spider_Attack_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Spider
+    m_Weight: 1
+  - m_Path: Spider/Atack1
+    m_Weight: 1
+  - m_Path: Spider/Atack1/Atack1_end
+    m_Weight: 1
+  - m_Path: Spider/BodyIK.001
+    m_Weight: 0
+  - m_Path: Spider/BodyIK.001/BodyIK.001_end
+    m_Weight: 1
+  - m_Path: Spider/Bone
+    m_Weight: 0
+  - m_Path: Spider/Bone/Ass
+    m_Weight: 1
+  - m_Path: Spider/Bone/Ass/Ass_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/Bone.002
+    m_Weight: 1
+  - m_Path: Spider/Bone/Bone.002/L.Bone.014
+    m_Weight: 1
+  - m_Path: Spider/Bone/Bone.002/L.Bone.014/L.Bone.014_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/Bone.002/R.Bone.014
+    m_Weight: 1
+  - m_Path: Spider/Bone/Bone.002/R.Bone.014/R.Bone.014_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg/L.Bone.012
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg/L.Bone.012/L.Bone.013
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg/L.Bone.012/L.Bone.013/L.Bone.013_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.001
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.001/L.Bone.009
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.001/L.Bone.009/L.Bone.010
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.001/L.Bone.009/L.Bone.010/L.Bone.010_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.002
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.002/L.Bone.006
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.002/L.Bone.006/L.Bone.007
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.002/L.Bone.006/L.Bone.007/L.Bone.007_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.003
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.003/L.Bone.003
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.003/L.Bone.003/L.Bone.004
+    m_Weight: 1
+  - m_Path: Spider/Bone/L.Leg.003/L.Bone.003/L.Bone.004/L.Bone.004_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg/R.Bone.012
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg/R.Bone.012/R.Bone.013
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg/R.Bone.012/R.Bone.013/R.Bone.013_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.001
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.001/R.Bone.009
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.001/R.Bone.009/R.Bone.010
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.001/R.Bone.009/R.Bone.010/R.Bone.010_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.002
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.002/R.Bone.006
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.002/R.Bone.006/R.Bone.007
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.002/R.Bone.006/R.Bone.007/R.Bone.007_end
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.003
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.003/R.Bone.003
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.003/R.Bone.003/R.Bone.004
+    m_Weight: 1
+  - m_Path: Spider/Bone/R.Leg.003/R.Bone.003/R.Bone.004/R.Bone.004_end
+    m_Weight: 1
+  - m_Path: Spider/L.LEG_IK.005
+    m_Weight: 0
+  - m_Path: Spider/L.LEG_IK.005/L.LEG_IK.005_end
+    m_Weight: 1
+  - m_Path: Spider/L.LEG_IK.008
+    m_Weight: 0
+  - m_Path: Spider/L.LEG_IK.008/L.LEG_IK.008_end
+    m_Weight: 1
+  - m_Path: Spider/L.LEG_IK.011
+    m_Weight: 0
+  - m_Path: Spider/L.LEG_IK.011/L.LEG_IK.011_end
+    m_Weight: 1
+  - m_Path: Spider/L.LegIK.015
+    m_Weight: 0
+  - m_Path: Spider/L.LegIK.015/L.LegIK.015_end
+    m_Weight: 1
+  - m_Path: Spider/R.LEG_IK.005
+    m_Weight: 0
+  - m_Path: Spider/R.LEG_IK.005/R.LEG_IK.005_end
+    m_Weight: 1
+  - m_Path: Spider/R.LEG_IK.008
+    m_Weight: 0
+  - m_Path: Spider/R.LEG_IK.008/R.LEG_IK.008_end
+    m_Weight: 1
+  - m_Path: Spider/R.LEG_IK.011
+    m_Weight: 0
+  - m_Path: Spider/R.LEG_IK.011/R.LEG_IK.011_end
+    m_Weight: 1
+  - m_Path: Spider.001
+    m_Weight: 0

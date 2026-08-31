@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fe1b6c3257f94489a18a6a4b624194, type: 3}
+  m_Name: Wolf Sound Def
+  m_EditorClassIdentifier: Assembly-CSharp::SoundDefinition
+  sounds:
+  - {fileID: 8300000, guid: e8d9920cfe36c7b4fbdf4dd2cf3c11d5, type: 3}
+  pitchMin: 0.922
+  pitchMax: 1.072
+  volume: 1

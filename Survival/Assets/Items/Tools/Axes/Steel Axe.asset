@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794a58ab4d92ccf4386c816c9f05996c, type: 3}
+  m_Name: Steel Axe
+  m_EditorClassIdentifier: Assembly-CSharp::ToolItem
+  id: Steel_Axe
+  icon: {fileID: 21300000, guid: 661b06f334f8de44ab101ad36de950ac, type: 3}
+  itemName: Steel Axe
+  description: the pinnacle of tree-felling tool development
+  prefab: {fileID: 6185341749391499736, guid: c7b34d1882d9e18459262e83213c7e3e, type: 3}
+  inHandPrefab: {fileID: 6452605175503023107, guid: 529eb3e058dfad947aa39f72ad4dd87e, type: 3}
+  isStackable: 1
+  maxStackSize: 1
+  useAnimName: Swing
+  toolDamage: 40
+  harvestLayer:
+    serializedVersion: 2
+    m_Bits: 2560
+  hitEffect: {fileID: 7848762784072963380, guid: c8c2a9e424ff98a4585ba00cfd59931d, type: 3}
+  hitSounds: {fileID: 11400000, guid: 7606437181ddcdc4ba20a6092e4675f9, type: 2}
+  missSounds: {fileID: 11400000, guid: 60d3c20a8ce911e4783d37181a22d513, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0efd75882f549b45942ce8540be7c43, type: 3}
+  m_Name: Bronze Amulet
+  m_EditorClassIdentifier: Assembly-CSharp::AmuletItem
+  id: Bronze_Amulet
+  icon: {fileID: 21300000, guid: e36f07c23f208054fbc057f9c7e49d8d, type: 3}
+  itemName: Bronze Amulet
+  description: Amulet granting vitality (+35 HP)
+  prefab: {fileID: 40277594602382144, guid: b6da1d59e94731942aecab01986b34ed, type: 3}
+  inHandPrefab: {fileID: 3604854738516004923, guid: 381941212ed99d84481c98ae5f997912, type: 3}
+  isStackable: 1
+  maxStackSize: 1
+  amuletIndex: 1
+  healthAdd: 35
+  useAnimName: Eat

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a92def5ce51227343811f66adf67d5ff, type: 3}
+  m_Name: Steel Sword
+  m_EditorClassIdentifier: Assembly-CSharp::MeeleWeaponItem
+  id: Steel_Sword
+  icon: {fileID: -438869872, guid: a744183c25f9cbd4383eea77188f133b, type: 3}
+  itemName: Steel Sword
+  prefab: {fileID: 1318579451673714811, guid: c0d9a7d4dd2b16a49b8225613f6a28b7, type: 3}
+  inHandPrefab: {fileID: 2347305784658698443, guid: 3200728e30920f842a1023c3afb64d0f, type: 3}
+  isStacable: 0
+  maxStackSize: 1
+  useAnimName: Swing
+  weaponDamage: 100
+  range: 5
+  hitEffect: {fileID: 7848762784072963380, guid: c8c2a9e424ff98a4585ba00cfd59931d, type: 3}
+  attackLayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  attackSoundDef: {fileID: 11400000, guid: 60d3c20a8ce911e4783d37181a22d513, type: 2}

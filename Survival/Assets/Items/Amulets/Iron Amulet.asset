@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0efd75882f549b45942ce8540be7c43, type: 3}
+  m_Name: Iron Amulet
+  m_EditorClassIdentifier: Assembly-CSharp::AmuletItem
+  id: Iron_Amulet
+  icon: {fileID: 21300000, guid: 25caf107b0e4ed94d94c223a32093f55, type: 3}
+  itemName: Iron Amulet
+  description: Amulet granting vitality (+50 HP)
+  prefab: {fileID: 6196795410491788526, guid: 7113675f97b264f4a850a8d0fa18a0c6, type: 3}
+  inHandPrefab: {fileID: 421347700394509438, guid: ce07b25d1f67bac45a9868c42ca2c7da, type: 3}
+  isStackable: 1
+  maxStackSize: 1
+  amuletIndex: 2
+  healthAdd: 50
+  useAnimName: Eat

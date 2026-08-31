@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f483a5d5c1a5754da372deda162bdd2, type: 3}
+  m_Name: Snow
+  m_EditorClassIdentifier: Assembly-CSharp::Biome
+  heightMultiplier: 3
+  scale: 10
+  minTemperature: 0
+  maxTemperature: 0.3
+  minHumidity: 0
+  maxHumidity: 0.5
+  color: {r: 1, g: 1, b: 1, a: 1}
+  resources:
+  - {fileID: 8007853414313839996, guid: 3873331d5ad255d4c90e4bd4ecc6bb35, type: 3}
+  - {fileID: 7841263110324069060, guid: c1c5054dea292d04b86097f1e8a58d0f, type: 3}
+  - {fileID: 6624992814766397963, guid: 8c307d2cebeedf04d84ca7e34a171d84, type: 3}
+  resourcesAmount: 0

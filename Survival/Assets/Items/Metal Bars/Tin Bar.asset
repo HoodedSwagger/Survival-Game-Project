@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b30f435d97dde4c9621a72fbf6217c, type: 3}
+  m_Name: Tin Bar
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  id: Tin_Bar
+  icon: {fileID: 21300000, guid: c87cd2b38d4a2b24387a9f49520b87f6, type: 3}
+  itemName: Tin Bar
+  prefab: {fileID: 7593956457097586872, guid: f1f28e1e76bfca1419fb9b7e19bc340b, type: 3}
+  inHandPrefab: {fileID: 4393704015124039093, guid: 841225cbcd95ade44ba1328ac344983a, type: 3}
+  isStacable: 1
+  maxStackSize: 64

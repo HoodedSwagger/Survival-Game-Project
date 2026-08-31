@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4bbb1f9e4ebab4d84a1a0112d87ee1, type: 3}
+  m_Name: Blue Berry
+  m_EditorClassIdentifier: Assembly-CSharp::EdibaleItem
+  id: Blueberry
+  icon: {fileID: 21300000, guid: 265042f0d900d7d4d8782df723f8f61a, type: 3}
+  itemName: Blueberry
+  prefab: {fileID: 1491639929566887689, guid: adde9470dda383947a60d1c785ac43da, type: 3}
+  inHandPrefab: {fileID: 8033016797975480018, guid: b36431745c5d08748a818d3b608570c6, type: 3}
+  isStacable: 1
+  maxStackSize: 64
+  saturation: 5
+  healthRestore: 5
+  useAnimName: Eat
